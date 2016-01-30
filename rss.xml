@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[importantcool]]></title>
-        <description><![CDATA[importantcool]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Change the Media. Change the World.]]></title>
+        <description><![CDATA[Change the Media. Change the World.]]></description>
+        <link>https://thegrid.ai/importantcool/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 04:11:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 05:34:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/importantcool/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#FEESMUSTFALL: The Forgotten Plight Of International Students In South Africa's Tuition Revolution]]></title>
+            <description><![CDATA[<article><h1>#FEESMUSTFALL: The Forgotten Plight Of International Students In South Africa's Tuition Revolution</h1><p>As many in South Africa, and beyond, attentively watched the vibrant students' revolution unfold, an unaddressed, related matter caught my attention. Even as President Jacob Zuma bowed to students' demands by scrapping a tuition increase for 2016, international students' concerns remained a non-issue. Although the latter have not been loud enough – being a minority – the solution offered to end the crisis could have considered them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a71e5422fd64d793d0bf51d41411d46aaa4f535.jpg"></article>]]></description>
+            <link>https://thegrid.ai/importantcool/feesmustfall-the-forgotten-plight-of-international-student/index.html</link>
+            <guid isPermaLink="false">34edc224-a26b-4ffa-ba46-92492b4364c3</guid>
+            <pubDate>Sat, 30 Jan 2016 05:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South American Soundscapes: An Interview With Ecuadorian Folk Electronica Artist Nicola Cruz]]></title>
+            <description><![CDATA[<article><h1>South American Soundscapes: An Interview With Ecuadorian Folk Electronica Artist Nicola Cruz</h1><p>Nicola Cruz’s debut album Prender El Alma was released last month on ZZK Records. The Buenos Aires-based label is the perfect fit for Cruz, as since 2008 they have made the combination of digital beats and folk samples their signature sound. ZZK has been dubbed “a laboratory of dance”, and you don’t have to spend long on their Soundcloud to see why. Bolivian Quechua vocals float over UK bass- influenced remixes and Argentine ballads break bread with digital cumbia. It’s a fresh take on electronic dance music, where sadly these days sophisticated tracks are often let down by melodies you could play on the keyboard with one finger.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7a20b3c9985b735fc1360d5c589e6724bf17b1c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/importantcool/south-american-soundscapes-an-interview-with-ecuadorian-fol/index.html</link>
+            <guid isPermaLink="false">45f72d1b-ad5c-42a0-9fce-c654796e3ca6</guid>
+            <pubDate>Sat, 30 Jan 2016 05:26:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5369014-fc37-4e1f-9985-d1c91fe274ee.jpg">]]></description>
-            <link>undefined137365d0-bdcc-4900-8195-604f12b597a8/index.html</link>
+            <link>https://thegrid.ai/importantcool/137365d0-bdcc-4900-8195-604f12b597a8/index.html</link>
             <guid isPermaLink="false">137365d0-bdcc-4900-8195-604f12b597a8</guid>
             <pubDate>Sat, 30 Jan 2016 04:09:38 GMT</pubDate>
         </item>
